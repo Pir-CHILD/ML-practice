@@ -1,0 +1,4 @@
+- K-Nearest Neighbor
+- Linear classifiers: SVM, softmax
+- Two-layer neural network
+- Image features
